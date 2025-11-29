@@ -1,4 +1,5 @@
-#📊 Data Career Insights – Power BI Dashboard
+#Dashboard
+📊 Data Career Insights – Power BI Dashboard
 An interactive analytics dashboard exploring global data career trends—covering salaries, job roles, demographics, industries, skills, and career satisfaction among 630 survey respondents.
 ________________________________________
 #🚀 Project Overview
