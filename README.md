@@ -55,4 +55,51 @@ Tech, Finance, Healthcare, Education, Telecom, Construction, Real Estate, Agricu
 
 ### 😊 5. Satisfaction Metrics
 Gauge charts showing:
-- Happiness with
+- Happiness with Learning Journey: **5.61/10**  
+- Happiness with Salary: **4.27/10**  
+
+---
+
+## 💡 Business Impact & Insights
+
+### 🎓 For Students & Job Seekers
+- Understand salary expectations across data roles  
+- Identify the most popular programming languages  
+- Discover which industries hire the most data professionals  
+
+### 🏢 For HR & Recruiters
+- Track skill demand and role–industry alignment  
+- Benchmark salaries by job titles  
+
+### 🌍 For Market Analysts & EdTech
+- Insights into learner satisfaction  
+- Opportunities to improve training curriculums  
+
+---
+
+## 🛠 Tech Stack
+- **Power BI Desktop** – Data visualization & dashboard building  
+- **Power Query (M Language)** – Data cleaning & transformation  
+- **DAX (Data Analysis Expressions)** – KPIs, measures, and calculations  
+- **Data Modeling** – Building relationships across survey tables  
+- **File Outputs:** `.pbix`, `.png`  
+
+---
+
+## 📂 Dataset Description
+The report uses global survey data containing:
+- Job roles  
+- Salary levels  
+- Age & gender  
+- Country  
+- Industry  
+- Preferred programming languages  
+- Learning & salary satisfaction  
+
+📌 **Total responses: 630**
+
+---
+
+## 📸 Dashboard Preview
+👉 [Click to view dashboard snapshot](https://github.com/pbhattacharya-developer/Data-Career-Insights-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+
