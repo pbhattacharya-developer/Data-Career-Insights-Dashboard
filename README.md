@@ -1,7 +1,7 @@
-📊 Data Career Insights – Power BI Dashboard
+#📊 Data Career Insights – Power BI Dashboard
 An interactive analytics dashboard exploring global data career trends—covering salaries, job roles, demographics, industries, skills, and career satisfaction among 630 survey respondents.
 ________________________________________
-🚀 Project Overview
+#🚀 Project Overview
 The Data Career Insights Dashboard provides a comprehensive analysis of the global data workforce using survey data.
 It highlights important trends in:
 •	Job roles & salary differences
@@ -18,7 +18,7 @@ This dashboard is ideal for:
 📌 Industry strategists
 📌 Professional portfolio showcase
 ________________________________________
-🧠 Key Features
+#🧠 Key Features
 🎯 1. Workforce Demographics & KPIs
 •	630 total survey participants
 •	Average age: 29.87
